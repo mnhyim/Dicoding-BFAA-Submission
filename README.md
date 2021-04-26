@@ -2,7 +2,7 @@
 
 Submission akhir pada course ["Belajar Fundamental Android Development"](https://www.dicoding.com/academies/14) oleh Dicoding. Silahkan digunakan sebagai referensi.
      
-### Submission Checklists
+## Submission Checklists
 - [x] Aplikasi bisa menambah user ke daftar favorite. (Terpenuhi)
 - [x] Aplikasi bisa menghapus user dari daftar favorite. (Terpenuhi)
 - [x] Halaman yang menampilkan daftar user favorite. (Terpenuhi)
@@ -11,7 +11,7 @@ Submission akhir pada course ["Belajar Fundamental Android Development"](https:/
 - [x] Membuat module baru yang menampilkan daftar user favorite dengan menggunakan ContentProvider. (Terpenuhi)
 - [x] Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada Submission 2. (Terpenuhi)
 
-### Screenshots
+## Screenshots
 <img src="https://github.com/mnhyim/Dicoding-BFAA-Submission/blob/main/screenshots/001.jpeg"
      alt="Main Screen"
      style="float: left; margin-right: 10px;"
