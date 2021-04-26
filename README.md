@@ -1,6 +1,6 @@
 # Dicoding's BFAA Submission
 
-Submission akhir pada course ["Belajar Fundamental Android Development"](https://www.dicoding.com/academies/14) oleh Dicoding. Silahkan digunakan sebagai referensi.
+Submission akhir pada course ["Belajar Fundamental Android Development"](https://www.dicoding.com/academies/14) oleh Dicoding, dibangun dengan menggunakan pattern MVVM. Silahkan digunakan sebagai referensi.
      
 ## Submission Checklists
 - [x] Aplikasi bisa menambah user ke daftar favorite. (Terpenuhi)
