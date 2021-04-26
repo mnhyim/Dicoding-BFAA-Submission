@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Pengguna Github</string>
+    <string name="search">Pencarian</string>
+    <string name="search_hint">Cari…</string>
+    <string name="home_text">Cari user Github dengan mudah!</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="repository_title">Repository</string>
+    <string name="location_title">Lokasi</string>
+    <string name="company_title">Perusahaan</string>
+    <string name="name_title">Nama</string>
+    <string name="username_title">Username</string>
+    <string name="no_data">Tidak diatur</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="splash_text">Aplikasi Pengguna Github</string>
+    <string name="favorites_info">Kamu tidak memiliki pengguna yang difavoritkan!</string>
+    <string name="fav_add_succed">Pengguna ditambahkan ke favorite!</string>
+    <string name="fav_add_failed">Gagal menambahkan favorite!</string>
+    <string name="fav_remove">Menghapus pengguna dari favorite!</string>
+    <string name="reminder_preferences">Pengingat untuk jam 4:20AM</string>
+    <string name="settings_title">Pengaturan</string>
+    <string name="reminder_title">Buka Aplikasi Pengguna Github-mu!</string>
+    <string name="reminder_message">Sekarang jam 4:20AM, saatnya membuka Aplikasi Pengguna Github!</string>
+    <string name="reminder_set_toast">Pengingat untuk jam 4:20AM telah dinyalakan!</string>
+    <string name="reminder_unset_toast">Pengingat untuk jam 4:20AM telah dimatikan!</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="appwidget_text">Favorit</string>
+</resources>

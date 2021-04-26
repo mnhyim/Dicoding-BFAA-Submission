@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Github Users Application</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search…</string>
+    <string name="home_text">Easily search Github User!</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="repository_title">Repository</string>
+    <string name="location_title">Location</string>
+    <string name="company_title">Company</string>
+    <string name="name_title">Name</string>
+    <string name="username_title">Username</string>
+    <string name="no_data">Not Set</string>
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="settings_title">Settings</string>
+    <string name="splash_text">Github Users App</string>
+    <string name="favorites_info">You dont have Favorites user!</string>
+
+    <string name="fav_add_succed">User added to favorite!</string>
+    <string name="fav_add_failed">Failed adding User to favorite!</string>
+    <string name="fav_remove">Removing User from favorite!</string>
+
+    <string name="reminder" translatable="false">reminder</string>
+    <string name="language" translatable="false">language</string>
+    <string name="reminder_preferences">Turn on reminder for 4:20AM</string>
+    <string name="reminder_title">Open your Github User App!</string>
+    <string name="reminder_message">Its 4:20AM, It\'s time to open Github User App!</string>
+    <string name="reminder_set_toast">Reminder for 4:20AM has been set up!</string>
+    <string name="reminder_unset_toast">Reminder for 4:20AM has been deactivacted!</string>
+
+    <string name="appwidget_text">Favorites</string>
+    <string name="empty_text">No Data</string>
+    <string name="add_widget">Add Widget</string>
+
+</resources>
